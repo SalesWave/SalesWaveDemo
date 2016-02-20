@@ -62,7 +62,7 @@ table {
 .subtitle {
     margin: -7px 0 15px;
     text-indent: 11px;
-	color: #FDFDFD
+	color: #FDFDFD;
 }
 
 
@@ -121,7 +121,8 @@ body.home {
 .background{
   background: #00b2a9	
 }
-.h4{
- text-align: center	
+h4{
+ text-align: center;
+ color: #FDFDFD;
 }
 }
