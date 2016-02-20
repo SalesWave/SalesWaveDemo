@@ -63,7 +63,6 @@ table {
     margin: -7px 0 15px;
     text-indent: 11px;
 	color: #FDFDFD
-	text-align: center;
 }
 
 
@@ -121,4 +120,8 @@ body.home {
 }
 .background{
   background: #00b2a9	
+}
+.h4{
+ text-align: center	
+}
 }
